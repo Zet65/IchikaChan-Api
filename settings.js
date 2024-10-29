@@ -1,10 +1,10 @@
 const fs = require('fs')
 
-global.creator = 'Zeeoneofc'// yourname
+global.creator = 'Kayla Host'// yourname
 global.MONGO_DB_URI = "" //database mongodb 
-global.ACTIVATION_TOKEN_SECRET = "-@Pqnap+@(/1jAPPnew/@10" //isi apa aja bebas
-global.your_email = "" //email
-global.email_password = "" //application password email
+global.ACTIVATION_TOKEN_SECRET = "ICHIKA-ACTIVATOR" //isi apa aja bebas
+global.your_email = "ayaraprojectsgen2@gmail.com" //email
+global.email_password = "@AyaraProject12345" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
 global.loghandler = {
