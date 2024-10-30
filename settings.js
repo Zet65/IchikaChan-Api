@@ -3,7 +3,7 @@ const fs = require('fs')
 global.creator = 'Kayla Host'// yourname
 global.MONGO_DB_URI = "mongodb+srv://db-nailaa:25ro4v19qXrzmua3@cluster0.9eta8.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0" //database mongodb 
 global.ACTIVATION_TOKEN_SECRET = "ICHIKA-ACTIVATOR" //isi apa aja bebas
-global.your_email = "ayaraprojectsgen2@gmail.com" //email
+global.your_email = "ayaraprojects@gmail.com" //email
 global.email_password = "@AyaraProject12345" //application password email
 global.limitCount = 10000
 global.YUOR_PORT = 8000
